@@ -1,2 +1,2 @@
-#nixos_dot#
+#**nixos_dot**
 nix flakes and nix configuration
