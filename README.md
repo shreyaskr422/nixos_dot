@@ -1,1 +1,1 @@
-#**nixos_dot**
+**nixos_dot**
